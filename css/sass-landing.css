@@ -1,0 +1,13 @@
+.box {
+  background: red;
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box .inner {
+  background: black;
+  width: 200px;
+  height: 200px;
+}/*# sourceMappingURL=sass-landing.css.map */
